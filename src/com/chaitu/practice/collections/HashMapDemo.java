@@ -11,10 +11,6 @@ public class HashMapDemo {
 		map.put("1", "Chaitu");
 		map.put("2", "Sowji");
 		
-		map.put("3","Sri");
-		map.put("4","Bangaram");
-		System.out.println("Map values : "+ map);
-		
-		
+		System.out.println("Map values : "+ map);				
 	}
 }
